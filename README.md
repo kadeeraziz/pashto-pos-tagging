@@ -1,1 +1,1 @@
-heeelo# post
+Parts-of-Speech tagging for Pashto.
